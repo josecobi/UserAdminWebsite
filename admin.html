@@ -41,25 +41,34 @@
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                <a class="nav-link disabled text-dark" aria-disabled="true">Disabled</a>
               </li>
             </ul>
             <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-outline-success" type="submit">Search</button>
+              <button class="btn btn-success" type="submit">Search</button>
             </form>
           </div>
         </div>
     </nav>
-    <div class="container mt-2">
+    <div class="container mt-5 mb-5">
         <div class="row">
             <div class="col-xl-3">
               <div class="card mb-4 mb-xl-0">
-                  <div class="card-header bg-primary text-white"><h5 class="card-title mb-0">Profile Picture</h5></div>
+                  <div class="card-header bg-primary text-white"><h5 class="card-title mb-0">Profile</h5></div>
 
-                  <div class="card-body text-center row justify-content-center">
+                  <div class="card-body text-center col justify-content-center">
+                    <div class="row justify-content-center">
                       <img class="rounded-circle mb-2  profile-picture" src="trees.webp" alt="profile-picture">
-                      <button class="btn btn-primary" type="button">Edit Photo</button>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-10">
+                        <p>Username</p>
+                        <p>Name Last Name</p>
+                        <p>name@email</p>
+                      <button class="btn btn-primary" type="button">Edit Profile</button>
+                    </div>
+                    </div>
                   </div>
               </div>
           </div>
@@ -86,17 +95,17 @@
                     </div>
                     <div class="row align-items-center ">    
                         <div class="col">
-                            <table class="table border-black.bg-gradient border  mt-4 py-4">
+                            <table class="table table-stripped border-black.bg-gradient border  mt-4 py-4">
                               <thead >
                                 <tr>
-                                  <th class="bg-primary-subtle" scope="col">#</th>
-                                  <th class="bg-primary-subtle" scope="col">Country</th>
-                                  <th class="bg-primary-subtle" scope="col">Sales</th>
-                                  <th class="bg-primary-subtle" scope="col">%</th>
+                                  <th class="bg-dark-subtle" scope="col">#</th>
+                                  <th class="bg-dark-subtle" scope="col">Country</th>
+                                  <th class="bg-dark-subtle" scope="col">Sales</th>
+                                  <th class="bg-dark-subtle" scope="col">%</th>
                                 </tr>
                               </thead>
                               <tbody>
-                                <tr>
+                                <tr class="table-stripped">
                                   <th scope="row">1</th>
                                   <td>USA</td>
                                   <td>$50000</td>
