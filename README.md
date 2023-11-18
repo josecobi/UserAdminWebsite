@@ -55,7 +55,7 @@ This web page is dedicated to administrators and provides insights into sales da
 #### Admin:
 - Desktop:
   
-- ![Screenshot 2023-11-18 094416](https://github.com/josecobi/UserAdminWebsite/assets/58313777/27c5ba19-3cf3-46ab-a7d8-c04581c78eae)
+![Screenshot 2023-11-18 094416](https://github.com/josecobi/UserAdminWebsite/assets/58313777/27c5ba19-3cf3-46ab-a7d8-c04581c78eae)
 
 
 - Mobile:
