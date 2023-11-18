@@ -41,8 +41,23 @@ This web page is dedicated to administrators and provides insights into sales da
 2. Open the `admin.html` file in a web browser.
 
 ### Screenshots
-User:
-![Screenshot 2023-11-18 000419](https://github.com/josecobi/UserAdminWebsite/assets/58313777/7b2ab8ad-62d8-4bcd-b7b1-48a7721bdd1e)
+#### User:
+- Desktop:
+  
+![Screenshot 2023-11-18 094315](https://github.com/josecobi/UserAdminWebsite/assets/58313777/e5175a7d-d274-4093-911c-a96e1cfa82da)
 
-Admin:
-![Screenshot 2023-11-18 001323](https://github.com/josecobi/UserAdminWebsite/assets/58313777/da28f47e-31bd-49b0-ba0f-1a74a94ba05b)
+
+- Mobile:
+  
+![Screenshot 2023-11-18 094708](https://github.com/josecobi/UserAdminWebsite/assets/58313777/bdb39d60-ade1-4520-8181-bda4c3f64976)
+
+
+#### Admin:
+- Desktop:
+  
+- ![Screenshot 2023-11-18 094416](https://github.com/josecobi/UserAdminWebsite/assets/58313777/27c5ba19-3cf3-46ab-a7d8-c04581c78eae)
+
+
+- Mobile:
+
+![Screenshot 2023-11-18 094448](https://github.com/josecobi/UserAdminWebsite/assets/58313777/8161667f-c139-4972-884a-e802d10a3587)
